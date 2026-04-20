@@ -2,7 +2,7 @@ from mcp.server.fastmcp import FastMCP
 import ffmpeg
 
 # Create an MCP server
-mcp = FastMCP("WhatsApp MCP")
+mcp = FastMCP("WhatsApp Bulk Sender v2.0")
 
 @mcp.tool()
 def get_unread_messages() -> str:

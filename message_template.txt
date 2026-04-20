@@ -1,0 +1,10 @@
+Hey {name}! 👋
+
+We have an exclusive offer just for you and {company}.
+
+🎉 Get {offer} on our premium services this week only!
+
+Reply to this message to claim your offer.
+
+Best regards,
+Team Antigravity 🚀

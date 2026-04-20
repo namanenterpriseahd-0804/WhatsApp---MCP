@@ -1,0 +1,11 @@
+2026-04-17 21:42:01 | INFO | 🔍 DRY RUN MODE — No messages will actually be sent
+
+2026-04-17 21:42:01 | INFO | Loaded 3 contacts from contacts.csv
+2026-04-17 21:42:01 | INFO | 📋 Starting bulk send: 3 contacts | delay 8–20s
+
+2026-04-17 21:42:01 | INFO | [1/3] 👤 Naman Shah → 919XXXXXXXXX@s.whatsapp.net
+2026-04-17 21:42:01 | INFO |   ⏳ Waiting 16.4s before next message...
+2026-04-17 21:42:17 | INFO | [2/3] 👤 Rahul Mehta → 919XXXXXXXXX@s.whatsapp.net
+2026-04-17 21:42:17 | INFO |   ⏳ Waiting 17.3s before next message...
+2026-04-17 21:42:34 | INFO | [3/3] 👤 Priya Sharma → 919XXXXXXXXX@s.whatsapp.net
+2026-04-17 21:42:34 | INFO | DONE -- Sent: 3 | Failed: 0 | Total: 3
